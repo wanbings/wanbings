@@ -2,6 +2,6 @@
 
 _computer science & physics @ university of illinois urbana-champaign (uiuc), with an electrical engineering minor_
 
-current interests :arrow_right: software engineering, embedded software, anything at the intersection of computation and physical systems
+current interests -> software engineering, embedded software, anything at the intersection of computation and physical systems
 
-hobbies :arrow_right: soccer, archery, reading web comics
+hobbies -> soccer, archery, reading web comics
